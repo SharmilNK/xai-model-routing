@@ -1,0 +1,9 @@
+streamlit
+torch --index-url https://download.pytorch.org/whl/cpu
+torchvision --index-url https://download.pytorch.org/whl/cpu
+timm
+numpy<2.0.0
+scipy
+matplotlib
+pillow
+scikit-learn

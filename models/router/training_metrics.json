@@ -1,0 +1,41 @@
+{
+  "cv_accuracy_mean": 0.8168750000000001,
+  "cv_accuracy_std": 0.011284668803292364,
+  "train_accuracy": 0.9925,
+  "test_accuracy": 0.7925,
+  "feature_importances": {
+    "attention_entropy": 0.3640162803001885,
+    "saliency_sparsity": 0.08796589027417266,
+    "gradient_magnitude": 0.11598445724278873,
+    "feature_importance_variance": 0.06312758145057328,
+    "spatial_complexity": 0.09105859906588823,
+    "confidence_margin": 0.20658953351389225,
+    "activation_sparsity": 0.07125765815249638
+  },
+  "confusion_matrix": [
+    [
+      156,
+      25,
+      0,
+      0
+    ],
+    [
+      30,
+      131,
+      12,
+      0
+    ],
+    [
+      0,
+      15,
+      28,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      2
+    ]
+  ]
+}
